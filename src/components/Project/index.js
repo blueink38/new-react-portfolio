@@ -24,7 +24,7 @@ function Project () {
             title: "Note Taker",
             image: "note-taker-screenshot.png",
             page: "https://blueink38.github.io/note-taker/",
-            code: "https://github.com/blueink38/note-taker"
+            code: "https://github.com/blueink38/note-taker/"
         },
         {
             title: "Run Buddy",
